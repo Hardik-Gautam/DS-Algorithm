@@ -14,7 +14,7 @@ using namespace std;
  * ans: no 
  */
 #define CHAR 256
-
+// ys
 // bool arr_cmp(int arr1[],int arr2[])
 // {
 //     for(int i=0;i<CHAR;i++)
